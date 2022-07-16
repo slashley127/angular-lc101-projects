@@ -3,7 +3,10 @@ h3 {
 }
 
 img {
-
+   width: 100pt;
+   height: 100pt;
+   object-fit: cover;
+   box-align: center;
 }
 
 .photos {
